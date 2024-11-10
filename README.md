@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Anfras
-- 👀 I’m interested in learning new technologies and improve the ones I know.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+-  I’m interested in learning new technologies and improve the ones I know.
 - 📫 How to reach me: angelglafras@gmail.com  ig: @angel_galfrascoli
